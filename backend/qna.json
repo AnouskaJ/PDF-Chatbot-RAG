@@ -1,0 +1,370 @@
+{
+    "questions_answers": [
+      {
+        "question": "Who are the Dursleys?",
+        "answer": "The Dursleys are Mr. and Mrs. Dursley of number four, Privet Drive. They are a normal family with a small son named Dudley."
+      },
+      {
+        "question": "What is Mr. Dursley's job?",
+        "answer": "Mr. Dursley is the director of a firm called Grunnings, which makes drills."
+      },
+      {
+        "question": "What unusual thing did Mr. Dursley notice on his way to work?",
+        "answer": "Mr. Dursley noticed a cat reading a map on the corner of the street."
+      },
+      {
+        "question": "What strange people did Mr. Dursley see on the street?",
+        "answer": "Mr. Dursley saw people dressed in cloaks, whispering excitedly together."
+      },
+      {
+        "question": "What did Mr. Dursley hear from the group of people in cloaks?",
+        "answer": "Mr. Dursley heard the name 'Potter' and that their son, Harry, was mentioned."
+      },
+      {
+        "question": "Who is Albus Dumbledore?",
+        "answer": "Albus Dumbledore is a tall, thin, and very old man with silver hair and a beard, wearing long robes and a purple cloak. He appeared suddenly on Privet Drive."
+      },
+      {
+        "question": "What device did Dumbledore use to extinguish the street lamps?",
+        "answer": "Dumbledore used a device called the Put-Outer to extinguish the street lamps."
+      },
+      {
+        "question": "Who did the cat turn out to be?",
+        "answer": "The cat turned out to be Professor McGonagall, who transformed back into a woman wearing square glasses and an emerald cloak."
+      },
+      {
+        "question": "What was the reason for the celebration mentioned by Professor McGonagall?",
+        "answer": "The celebration was because You-Know-Who (Voldemort) had disappeared."
+      },
+      {
+        "question": "What is Professor McGonagall's opinion on the celebrations?",
+        "answer": "Professor McGonagall thinks people are being careless by celebrating openly and drawing attention."
+      },
+      {
+        "question": "How did Dumbledore respond to McGonagall's concerns about the celebrations?",
+        "answer": "Dumbledore assured her that he trusted Hagrid with his life."
+      },
+      {
+        "question": "Who delivered Harry to the Dursleys?",
+        "answer": "Hagrid, a giant of a man, delivered Harry to the Dursleys on a motorcycle."
+      },
+      {
+        "question": "How did the Dursleys react when they found Harry on their doorstep?",
+        "answer": "The Dursleys were shocked and tried to ignore the fact that Harry existed."
+      },
+      {
+        "question": "What unusual occurrences happened around Harry as he grew up?",
+        "answer": "Harry experienced strange events, like his hair growing back overnight and shrinking a sweater that he didn't want to wear."
+      },
+      {
+        "question": "What did Harry find out on his eleventh birthday?",
+        "answer": "Harry found out that he is a wizard and has been accepted to Hogwarts School of Witchcraft and Wizardry."
+      },
+      {
+        "question": "Who came to deliver Harry's letter and take him to Hogwarts?",
+        "answer": "Hagrid came to deliver Harry's letter and take him to Hogwarts."
+      },
+      {
+        "question": "How did the Dursleys react to Hagrid's arrival?",
+        "answer": "The Dursleys were terrified and tried to prevent Harry from leaving with Hagrid."
+      },
+      {
+        "question": "What is Diagon Alley?",
+        "answer": "Diagon Alley is a hidden street in London where wizards can buy their supplies for school."
+      },
+      {
+        "question": "What did Harry buy in Diagon Alley?",
+        "answer": "Harry bought his school supplies, including a wand, books, robes, and a pet owl named Hedwig."
+      },
+      {
+        "question": "Who is Ollivander?",
+        "answer": "Ollivander is the owner of the wand shop where Harry bought his first wand."
+      },
+      {
+        "question": "What is special about Harry's wand?",
+        "answer": "Harry's wand is made of holly and phoenix feather, and it is the twin of Voldemort's wand."
+      },
+      {
+        "question": "How did Harry get to Platform 9 3/4?",
+        "answer": "Harry got to Platform 9 3/4 by following the Weasley family and running through the barrier between platforms 9 and 10."
+      },
+      {
+        "question": "Who did Harry meet on the train to Hogwarts?",
+        "answer": "Harry met Ron Weasley, Hermione Granger, and Neville Longbottom on the train to Hogwarts."
+      },
+      {
+        "question": "What house was Harry sorted into?",
+        "answer": "Harry was sorted into Gryffindor."
+      },
+      {
+        "question": "What did the Sorting Hat consider before placing Harry in Gryffindor?",
+        "answer": "The Sorting Hat considered placing Harry in Slytherin, but Harry asked not to be put there."
+      },
+      {
+        "question": "Who is the headmaster of Hogwarts?",
+        "answer": "The headmaster of Hogwarts is Albus Dumbledore."
+      },
+      {
+        "question": "Who is Professor Snape?",
+        "answer": "Professor Snape is the Potions master at Hogwarts and head of Slytherin House."
+      },
+      {
+        "question": "What subject does Professor McGonagall teach?",
+        "answer": "Professor McGonagall teaches Transfiguration."
+      },
+      {
+        "question": "Who is the caretaker of Hogwarts?",
+        "answer": "The caretaker of Hogwarts is Argus Filch."
+      },
+      {
+        "question": "Who is Hagrid and what is his role at Hogwarts?",
+        "answer": "Hagrid is the Keeper of Keys and Grounds at Hogwarts."
+      },
+      {
+        "question": "What is the Forbidden Forest?",
+        "answer": "The Forbidden Forest is a dangerous forest on the Hogwarts grounds where students are not allowed to go."
+      },
+      {
+        "question": "What is the Mirror of Erised?",
+        "answer": "The Mirror of Erised is a magical mirror that shows the deepest desire of the person who looks into it."
+      },
+      {
+        "question": "What did Harry see in the Mirror of Erised?",
+        "answer": "Harry saw his parents in the Mirror of Erised."
+      },
+      {
+        "question": "What are the four houses at Hogwarts?",
+        "answer": "The four houses at Hogwarts are Gryffindor, Hufflepuff, Ravenclaw, and Slytherin."
+      },
+      {
+        "question": "Who are Harry's best friends at Hogwarts?",
+        "answer": "Harry's best friends at Hogwarts are Ron Weasley and Hermione Granger."
+      },
+      {
+        "question": "What position does Harry play on the Quidditch team?",
+        "answer": "Harry plays Seeker on the Gryffindor Quidditch team."
+      },
+      {
+        "question": "What is Quidditch?",
+        "answer": "Quidditch is a magical sport played on broomsticks with four balls and seven players on each team."
+      },
+      {
+        "question": "What is the goal of a Seeker in Quidditch?",
+        "answer": "The goal of a Seeker in Quidditch is to catch the Golden Snitch, which earns 150 points and ends the game."
+      },
+      {
+        "question": "What did Harry receive as a gift from Professor McGonagall?",
+        "answer": "Harry received a Nimbus 2000 broomstick as a gift from Professor McGonagall."
+      },
+      {
+        "question": "Who is the head of Gryffindor House?",
+        "answer": "The head of Gryffindor House is Professor McGonagall."
+      },
+      {
+        "question": "Who is the Defense Against the Dark Arts teacher?",
+        "answer": "The Defense Against the Dark Arts teacher is Professor Quirrell."
+      },
+      {
+        "question": "What is a troll and what happened during Halloween?",
+        "answer": "A troll is a large, dangerous creature. During Halloween, a troll entered Hogwarts, and Harry and Ron saved Hermione from it."
+      },
+      {
+        "question": "What did Harry and his friends discover about the Sorcerer's Stone?",
+        "answer": "Harry and his friends discovered that the Sorcerer's Stone can produce the Elixir of Life and make the drinker immortal."
+      },
+      {
+        "question": "Who is Nicolas Flamel?",
+        "answer": "Nicolas Flamel is the creator of the Sorcerer's Stone and is known for his work in alchemy."
+      },
+      {
+        "question": "What is Fluffy?",
+        "answer": "Fluffy is a three-headed dog that guards the trapdoor leading to the Sorcerer's Stone."
+    },
+    {
+      "question": "Who lent Fluffy to guard the Sorcerer's Stone?",
+      "answer": "Hagrid lent Fluffy to guard the Sorcerer's Stone."
+    },
+    {
+      "question": "How do you get past Fluffy?",
+      "answer": "You get past Fluffy by playing music, which makes him fall asleep."
+    },
+    {
+      "question": "What did Hagrid win from a stranger in a pub?",
+      "answer": "Hagrid won a dragon's egg from a stranger in a pub."
+    },
+    {
+      "question": "What is the name of the dragon Hagrid hatched?",
+      "answer": "The dragon Hagrid hatched is named Norbert."
+    },
+    {
+      "question": "What happened to Norbert?",
+      "answer": "Norbert was sent to Romania to live with Charlie Weasley, Ron's brother."
+    },
+    {
+      "question": "What is the final challenge to reach the Sorcerer's Stone?",
+      "answer": "The final challenge is a series of magical obstacles set by the Hogwarts professors."
+    },
+    {
+      "question": "What was Harry's role in the final challenge?",
+      "answer": "Harry's role was to catch the key in the flying keys challenge and ride the broomstick."
+    },
+    {
+      "question": "What did Ron do in the final challenge?",
+      "answer": "Ron played a life-sized game of wizard chess and sacrificed himself so Harry and Hermione could proceed."
+    },
+    {
+      "question": "What did Hermione do in the final challenge?",
+      "answer": "Hermione solved the logic puzzle involving potions to allow Harry to go forward."
+    },
+    {
+      "question": "Who did Harry find in the final room with the Mirror of Erised?",
+      "answer": "Harry found Professor Quirrell in the final room with the Mirror of Erised."
+    },
+    {
+      "question": "Who was controlling Professor Quirrell?",
+      "answer": "Voldemort was controlling Professor Quirrell."
+    },
+    {
+      "question": "How did Harry defeat Quirrell and Voldemort?",
+      "answer": "Harry defeated Quirrell by touching him, which caused Quirrell great pain, and Voldemort fled."
+    },
+    {
+      "question": "What happened to the Sorcerer's Stone?",
+      "answer": "The Sorcerer's Stone was destroyed by Dumbledore and Nicolas Flamel to prevent it from being misused."
+    },
+    {
+      "question": "What did Dumbledore say was the power Harry had that Voldemort did not understand?",
+      "answer": "Dumbledore said the power Harry had was love."
+    },
+    {
+      "question": "What house won the House Cup at the end of the year?",
+      "answer": "Gryffindor won the House Cup at the end of the year."
+    },
+    {
+      "question": "What did Dumbledore award Harry, Ron, Hermione, and Neville for their bravery?",
+      "answer": "Dumbledore awarded Harry, Ron, Hermione, and Neville points for their bravery, which helped Gryffindor win the House Cup."
+    },
+    {
+      "question": "What are the four types of balls used in Quidditch?",
+      "answer": "The four types of balls used in Quidditch are the Quaffle, the Bludgers, and the Golden Snitch."
+    },
+    {
+      "question": "What is the role of a Beater in Quidditch?",
+      "answer": "The role of a Beater is to protect their teammates from the Bludgers and to try to knock the Bludgers towards the opposing team."
+    },
+    {
+      "question": "What is the role of a Keeper in Quidditch?",
+      "answer": "The role of a Keeper is to guard the goalposts and prevent the opposing team from scoring."
+    },
+    {
+      "question": "Who is Draco Malfoy?",
+      "answer": "Draco Malfoy is a student in Slytherin House who becomes Harry's rival."
+    },
+    {
+      "question": "Who are Crabbe and Goyle?",
+      "answer": "Crabbe and Goyle are Draco Malfoy's friends and followers, also in Slytherin House."
+    },
+    {
+      "question": "What is the role of the Golden Snitch in Quidditch?",
+      "answer": "The Golden Snitch is a small, winged ball that is worth 150 points. The game ends when the Snitch is caught."
+    },
+    {
+      "question": "Who is the Potions professor at Hogwarts?",
+      "answer": "The Potions professor at Hogwarts is Severus Snape."
+    },
+    {
+      "question": "Who is the History of Magic professor at Hogwarts?",
+      "answer": "The History of Magic professor at Hogwarts is Professor Binns."
+    },
+    {
+      "question": "What is the Philosopher's Stone known as in America?",
+      "answer": "The Philosopher's Stone is known as the Sorcerer's Stone in America."
+    },
+    {
+      "question": "Who is the Astronomy professor at Hogwarts?",
+      "answer": "The Astronomy professor at Hogwarts is Professor Sinistra."
+    },
+    {
+      "question": "Who is the Herbology professor at Hogwarts?",
+      "answer": "The Herbology professor at Hogwarts is Professor Sprout."
+    },
+    {
+      "question": "Who is the Charms professor at Hogwarts?",
+      "answer": "The Charms professor at Hogwarts is Professor Flitwick."
+    },
+    {
+      "question": "What spell did Hermione use to unlock the door on the third floor?",
+      "answer": "Hermione used the spell 'Alohomora' to unlock the door on the third floor."
+    },
+    {
+      "question": "What are house points and how are they earned?",
+      "answer": "House points are awarded to students for good behavior and achievements, and deducted for rule-breaking. The house with the most points at the end of the year wins the House Cup."
+    },
+    {
+      "question": "Who are the ghosts of the four Hogwarts houses?",
+      "answer": "The ghosts of the four houses are Nearly Headless Nick for Gryffindor, the Bloody Baron for Slytherin, the Grey Lady for Ravenclaw, and the Fat Friar for Hufflepuff."
+    },
+    {
+      "question": "What did Harry receive from Hagrid on his birthday?",
+      "answer": "Harry received a birthday cake and Hedwig, a snowy owl, from Hagrid."
+    },
+    {
+      "question": "What did Harry receive from the Dursleys for Christmas?",
+      "answer": "Harry received a fifty-pence piece from the Dursleys for Christmas."
+    },
+    {
+      "question": "What did Harry receive from the Weasleys for Christmas?",
+      "answer": "Harry received a hand-knitted sweater and homemade fudge from Mrs. Weasley for Christmas."
+    },
+    {
+      "question": "What did Harry receive from Dumbledore for Christmas?",
+      "answer": "Harry received the Invisibility Cloak from Dumbledore for Christmas."
+    },
+    {
+      "question": "Who did Harry meet in the Leaky Cauldron?",
+      "answer": "Harry met Professor Quirrell in the Leaky Cauldron."
+    },
+    {
+      "question": "What is Gringotts?",
+      "answer": "Gringotts is the wizarding bank run by goblins."
+    },
+    {
+      "question": "What is the function of the Daily Prophet?",
+      "answer": "The Daily Prophet is the wizarding newspaper."
+    },
+    {
+      "question": "Who is Madam Hooch?",
+      "answer": "Madam Hooch is the Quidditch instructor and referee at Hogwarts."
+    },
+    {
+      "question": "What are Bertie Bott's Every Flavor Beans?",
+      "answer": "Bertie Bott's Every Flavor Beans are magical jelly beans that come in every flavor imaginable, including some unpleasant ones."
+    },
+    {
+      "question": "What spell did Hermione use to set Snape's robes on fire during the Quidditch match?",
+      "answer": "Hermione used the spell 'Lacarnum Inflamarae' to set Snape's robes on fire."
+    },
+    {
+      "question": "Who is the librarian at Hogwarts?",
+      "answer": "The librarian at Hogwarts is Madam Pince."
+    },
+    {
+      "question": "Who is the school nurse at Hogwarts?",
+      "answer": "The school nurse at Hogwarts is Madam Pomfrey."
+    },
+    {
+      "question": "What is a House Elf?",
+      "answer": "A House Elf is a magical creature bound to serve a wizarding family, like Dobby who is introduced in the second book."
+    },
+    {
+      "question": "What is a Muggle?",
+      "answer": "A Muggle is a non-magical person."
+    },
+    {
+      "question": "What is the spell used to levitate objects?",
+      "answer": "The spell used to levitate objects is 'Wingardium Leviosa.'"
+    }
+  ]
+}
+
+  
